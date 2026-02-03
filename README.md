@@ -14,6 +14,11 @@ otherwise, the original docker compose files are set up well
 
 ---
 
+webui:
+${HOST}:9090
+
+---
+
 ##
 
 ---
