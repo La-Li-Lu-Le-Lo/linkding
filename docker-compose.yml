@@ -1,3 +1,5 @@
+name: "linkding_stack"
+
 services:
   linkding:
     container_name: "${LD_CONTAINER_NAME:-linkding}"
